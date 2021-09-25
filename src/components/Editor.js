@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import Container from "../common/Container";
-import Title from "../common/Title";
+import Container from "./Container";
+import Title from "./Title";
 
 const TextArea = styled.textarea`
     display: block;
